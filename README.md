@@ -6,8 +6,9 @@
 Proffy is a project developed during the 2nd edition of Rocketseat's Next Level Week. It's a online plataform that connects students and teachers, made with React.js and React Native using Typescript.
 ## Clone or download
 You can download or clone this project. If You want to clone this project just type this in your computer terminal:
+
 ```bash
-$ git clone https://github.com/DeboraMdaGama/Ecoleta-nlw.git
+$ git clone https://github.com/DeboraMdaGama/Proffy-omnistack-nlw2.git
 ```
 ## How to run
 
