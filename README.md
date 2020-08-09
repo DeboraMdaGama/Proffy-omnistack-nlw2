@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Proffy" width="280" title="#logo" src="./readme_tmp/logo.png">
+    <img alt="Proffy" src="readme_tmp/logo.png" />
     <br>
     Trilha Omnistack
 </h3>
