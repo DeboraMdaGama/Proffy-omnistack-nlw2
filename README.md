@@ -3,14 +3,17 @@
     <br>
     Trilha Omnistack
 </h3>
+<p>
 Proffy is a project developed during the 2nd edition of Rocketseat's Next Level Week. It's a online plataform that connects students and teachers, made with React.js and React Native using Typescript.
+</p>
+
 ## Clone or download
 You can download or clone this project. If You want to clone this project just type this in your computer terminal:
 
 ```bash
 $ git clone https://github.com/DeboraMdaGama/Proffy-omnistack-nlw2.git
 ```
-## How to run
+## How to Run
 
 ### API
 
@@ -60,7 +63,7 @@ For more information about this project go to [Notion](https://www.notion.so/Nex
 ```bash
 Using git comands
 ```
--- Fork this repository;
+- Fork this repository;
 - Create a branch with your feature: `git checkout -b my-feature`
 - Commit your changes: `git commit -m 'feat: My new feature'`
 - Push your branch: `git push origin my-feature`
